@@ -3,4 +3,4 @@ Implementing a nearest neighbor algorithm to recommend books to readers best sui
 Specifically, implement a KNN algorithm to find sets of similar users based on common book ratings, and make predictions using the average rating of top-k nearest neighbors. You will also extend your implementation as weighted k-NN algorithm.
 Book ratings dataset of 1.1 million ratings of 27M books by 90K users. The ratings are on a scale between 1 to 10. Algorithm try to make predictions using the average rating of top-k nearest neighbors.
 
-![Alt Text](https://media.giphy.com/media/3orif8i7DCXgnSa1OM/giphy.gif)
+
